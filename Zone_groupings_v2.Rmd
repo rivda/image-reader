@@ -1,13 +1,5 @@
 ---
-title: "Zone Segmentation V2"
-author: "Rivali Dass"
-date: "17/03/2020"
-output: 
-    html_notebook:
-      code_folding: hide
-      smart: false
-    html_document: default
-    pdf_document: default
+title: "Zone Segmentation"
 ---
 
 
